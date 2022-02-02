@@ -8,3 +8,4 @@ Another new line via github.
 Created new branch called "branch-for-agoston".
 
 Adding more lines to the file, but only on the borka branch to see how it works, after I made some changes on the agoston branch.
+Adding more lines to the file, but only on the agoston branch to see how it works, if I crate changes on the borka branch as well.
